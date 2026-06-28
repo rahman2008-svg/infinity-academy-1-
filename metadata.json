@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Academy",
+  "description": "A high-fidelity gamified language learning app cloned from Duolingo, powered by Gemini AI for infinite dynamic lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
